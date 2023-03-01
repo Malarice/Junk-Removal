@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.southsidemetrohauling.com/my_sitemap.xml
